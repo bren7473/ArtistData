@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Artist Data</string>
+    <string name="edit_text_enter_artist">\"The Wiggles\"</string>
+    <string name="Enter_Artist">Enter Artist</string>
+    <string name="artist_name">No Data</string>
+    <string name="track_name">No Data</string>
+    <integer name="track_price">0</integer>
+    <string name="release_date">No Data</string>
+    <string name="primary_genre">No Data</string>
+</resources>
